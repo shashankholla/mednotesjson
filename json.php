@@ -8,12 +8,12 @@
     {
       "book": "Book 2",
       "author": "Release Notes",
-      "link": "http://linux.dell.com/files/DSP/DSP-1.1-Live/ReleaseNotes.txt"
+      "link": "http://che.org.il/wp-content/uploads/2016/12/pdf-sample.pdf"
     },
     {
       "book": "2.0 - 2.1",
-      "author": "Eclair",
-      "link": "link level 5 - 7"
+      "author": "Sample 3",
+      "link": "www.africau.edu/images/default/sample.pdf"
     },
     {
       "book": "2.2",
