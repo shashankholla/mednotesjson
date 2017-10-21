@@ -5,7 +5,7 @@
       "author": "SP_SLI_1.1_A01_UG",
       "link": "http://linux.dell.com/files/DSP/DSP-1.1-Live/DSP_SLI_1.1_A01_UG.pdf",
       "img":"https://i.imgur.com/F0bqnH9.jpg",
-      "filename":"DSP-1.1-Live/DSP_SLI_1.1_A01_UG.pdf"
+      "filename":"DSP_SLI_1.1_A01_UG.pdf"
     },
     {
       "book": "Book 2",
