@@ -2,10 +2,10 @@
   "android": [
     {
       "book": "Upper limb",
-      "author": "SP_SLI_1.1_A01_UG",
+      "author": "handouts",
       "link": "https://github.com/shashankholla/upper-limb/blob/master/1.BONES%20OF%20UPPER%20LIMB%20(1).pdf",
       "img":"https://i.imgur.com/F0bqnH9.jpg",
-      "filename":"BONES OF UPPER LIMB (1).pdf"
+      "filename":"1.BONES OF UPPER LIMB (1).pdf"
     },
     {
       "book": "Book 2",
