@@ -8,43 +8,43 @@
       "filename":"1.BONES OF UPPER LIMB (1).pdf"
     },
     {
-      "book": "Book 2",
-      "author": "Release Notes",
-      "link": "http://che.org.il/wp-content/uploads/2016/12/pdf-sample.pdf",
+      "book": "Pectoral region",
+      "author": "handouts",
+      "link": "https://github.com/shashankholla/upper-limb/blob/master/2.PECTORAL%20REGION.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
-"filename":"pdf-sample.pdf"
+"filename":"2.PECTORAL REGION.pdf"
     },
     {
-      "book": "2.0 - 2.1",
-      "author": "Sample 3",
-      "link": "www.africau.edu/images/default/sample.pdf",
+      "book": "Axilla",
+      "author": "handouts",
+      "link": "https://github.com/shashankholla/upper-limb/blob/master/3.AXILLA.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
-"filename":""
+"filename":"3.AXILLA.pdf"
     },
     {
-      "book": "2.2",
-      "author": "Froyo",
-      "link": "link level 8",
+      "book": "Scapular region",
+      "author": "handouts",
+      "link": "https://github.com/shashankholla/upper-limb/blob/master/4.SCAPULAR%20REGION%20.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
-"filename":""
+"filename":"4.SCAPULAR REGION .pdf"
     },
     {
-      "book": "2.3",
-      "author": "Gingerbread",
-      "link": "link level 9 - 10",
+      "book": "Arm",
+      "author": "handouts",
+      "link": "https://github.com/shashankholla/upper-limb/blob/master/5.ARM.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
-"filename":""
+"filename":"5.ARM.pdf"
     },
     {
-      "book": "3.0 - 3.2",
-      "author": "Honeycomb",
+      "book": "Forearm and hand",
+      "author": "handouts",
       "link": "link level 11 - 13",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
 "filename":""
     },
     {
-      "book": "4.0",
-      "author": "Ice Cream Sandwich",
+      "book": "Joints of upper limb",
+      "author": "handouts",
       "link": "link level 14 - 15",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
 "filename":""
