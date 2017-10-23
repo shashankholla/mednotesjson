@@ -111,6 +111,6 @@
       "link": "https://github.com/shashankholla/upper-limb/raw/master/9.VENOUS___LYMPHATIC_DRAINAGE_OF_LOWRRE_LIMB.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
 "filename":"9.VENOUS___LYMPHATIC_DRAINAGE_OF_LOWRRE_LIMB.pdf"
-    },
+    }
   ]
 }
