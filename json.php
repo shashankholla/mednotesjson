@@ -80,7 +80,7 @@
     {
       "book": "7.0 - 7.1",
       "author": "Nougat",
-      "link": "link level 24 - 25",
+      "link": "http://www.pdf995.com/samples/pdf.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
 "filename":""
     }
