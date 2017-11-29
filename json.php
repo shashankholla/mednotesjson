@@ -106,7 +106,7 @@
 "filename":"8.BACK_OF_LEG.pdf"
     },
 {
-      "book": "Venous,lymphatic drainage",
+      "book": "Venous,lymphatic",
       "author": "Lower limb",
       "link": "https://github.com/shashankholla/upper-limb/raw/master/9.VENOUS___LYMPHATIC_DRAINAGE_OF_LOWRRE_LIMB.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
@@ -170,7 +170,7 @@
 "filename":"8.BACK OF NECK.pdf"
     },
     {
-      "book": "Contenets of vertebral column",
+      "book": "Vertebral column",
       "author": "Head and Neck",
       "link": "https://github.com/shashankholla/upper-limb/raw/master/9.%20CONTENTS%20OF%20VERTEBRAL%20CANAL.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
@@ -198,7 +198,7 @@
 "filename":"12.MOUTH & PHARYNX.pdf"
     },
  {
-      "book": "Nose & paranasal sinuses",
+      "book": "Nose & paranasal",
       "author": "Head and Neck",
       "link": "https://github.com/shashankholla/upper-limb/raw/master/13.NOSE%20%26%20PARANASAL%20SINUSES.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
