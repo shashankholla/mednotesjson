@@ -224,13 +224,6 @@
       "link": "https://github.com/shashankholla/upper-limb/raw/master/16.EAR.pdf",
 "img":"https://i.imgur.com/J1gMWeP.jpg",
 "filename":"16.EAR.pdf"
-},
-{
-      "book": "Blank doc",
-      "author": "Blank",
-      "link": "",
-"img":"https://i.imgur.com/J1gMWeP.jpg",
-"filename":"Blank doc.pdf"
 }
   ]
 }
