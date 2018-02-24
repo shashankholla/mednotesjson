@@ -270,7 +270,7 @@
 "author": "Thorax",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/0.INTRODUCTION%20TO%20THORAX.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"neuro handouts.pdf"
+ "filename":"Introduction to thorax.pdf"
 
     },
 {
