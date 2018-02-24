@@ -270,7 +270,7 @@
 "author": "Thorax",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/0.INTRODUCTION%20TO%20THORAX.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"Introduction to thorax.pdf"
+ "filename":"0.INTRODUCTION TO THORAX.pdf"
 
     },
 {
@@ -278,7 +278,7 @@
 "author": "Thorax",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/1.WALL%20OF%20THORAX.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"neuro handouts.pdf"
+ "filename":"1.WALL OF THORAX.pdf"
 
     },
 {
@@ -286,7 +286,7 @@
 "author": "Thorax",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/2.THORACIC%20CAVITY%20%26%20PLEURA.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"neuro handouts.pdf"
+ "filename":"2.THORACIC CAVITY & PLEURA.pdf"
 
     },
 {
@@ -294,7 +294,7 @@
 "author": "Thorax",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/3.LUNGS.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"neuro handouts.pdf"
+ "filename":"3.LUNGS.pdf"
 
     },
 {
@@ -302,7 +302,7 @@
 "author": "Thorax",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/4.MEDIASTINUM.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"neuro handouts.pdf"
+ "filename":"4.MEDIASTINUM.pdf"
 
     },
 {
@@ -310,7 +310,7 @@
 "author": "Thorax",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/5.HEART.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"neuro handouts.pdf"
+ "filename":"5.HEART.pdf"
 
     }
   ]
