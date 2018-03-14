@@ -312,6 +312,38 @@
 "img":"https://i.imgur.com/F0bqnH9.jpg",
  "filename":"5.HEART.pdf"
 
+    },
+{
+ "book": "Anterior Abdominal wall",
+"author": "Abdomen and Pelvis",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/1.anterior%20abd%20wall%20hand%20outs.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"1.anterior abd wall hand outs.pdf"
+
+    },
+{
+ "book": "Peritoneum",
+"author": "Abdomen and Pelvis",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/2.Peritoneum.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"2.Peritoneum.pdf"
+
+    },
+{
+ "book": "Stomach",
+"author": "Abdomen and Pelvis",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/3.%20stomach.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"3. stomach.pdf"
+
+    },
+{
+ "book": "Small & Large Intestine",
+"author": "Abdomen and Pelvis",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/4.%20small%20%26%20large%20intestine.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"4. small & large intestine.pdf"
+
     }
   ]
 }
