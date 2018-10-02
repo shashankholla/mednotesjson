@@ -442,11 +442,51 @@
 
     },
 {
- "book": "Embryology Spotters",
+ "book": "Embryology Models",
 "author": "Embryology",
           "link": "https://github.com/shashankholla/upper-limb/raw/master/embryo",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
  "filename":"embryo"
+
+    },
+{
+ "book": "Genetics",
+"author": "Anatomy",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/genetics.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"genetics.pdf"
+
+    },
+{
+ "book": "Histology Spotters",
+"author": "Histology",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/histo",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"histo"
+
+    },
+{
+ "book": "Histology Points",
+"author": "Histology",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/histo%20points",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"histo points"
+
+    },
+{
+ "book": "Radiology Spotters",
+"author": "Radiology",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/radio",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"radio"
+
+    },
+{
+ "book": "RGUHS Papers",
+"author": "Anatomy",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/rguhs%20papers",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"rguhs papers"
 
     }
   ]
