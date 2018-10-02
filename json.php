@@ -432,6 +432,22 @@
 "img":"https://i.imgur.com/F0bqnH9.jpg",
  "filename":"15. WALLS OF PELVIS.pdf"
 
+    },
+{
+ "book": "General Anatomy",
+"author": "Anatomy",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/general%20anat.pdf",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"general anat.pdf"
+
+    },
+{
+ "book": "Embryology Spotters",
+"author": "Embryology",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/embryo",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"embryo"
+
     }
   ]
 }
