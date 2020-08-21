@@ -491,10 +491,10 @@
     },
 {
  "book": "Install new medo",
-"author": "Anatomy",
-          "link": "https://github.com/shashankholla/mednotesjson/raw/master/meds.pdf",
+"author": "Search for medo in play store",
+          "link": "https://github.com/shashankholla/mednotesjson/raw/master/inc.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
- "filename":"meds.pdf"
+ "filename":"inc.pdf"
 
     }
   ]
