@@ -488,6 +488,14 @@
 "img":"https://i.imgur.com/F0bqnH9.jpg",
  "filename":"rguhs papers"
 
+    },
+{
+ "book": "Install new medo",
+"author": "Anatomy",
+          "link": "https://github.com/shashankholla/upper-limb/raw/master/rguhs%20papers",
+"img":"https://i.imgur.com/F0bqnH9.jpg",
+ "filename":"Install new medo"
+
     }
   ]
 }
