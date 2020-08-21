@@ -492,7 +492,7 @@
 {
  "book": "Install new medo",
 "author": "Anatomy",
-          "link": "https://github.com/shashankholla/upper-limb/raw/master/rguhs%20papers",
+          "link": "https://github.com/shashankholla/mednotesjson/raw/master/newone.pdf",
 "img":"https://i.imgur.com/F0bqnH9.jpg",
  "filename":"Install new medo"
 
